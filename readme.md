@@ -26,6 +26,7 @@ To setup a new repository
 
 
 Now you are ready to push the content to the repository
+
 7. git remote add origin <i>remote repository url</i>
 8. git remote -v (remove remote repo by git remtoe remove <i>reponame</i>
 9. git push origin master    (pushes to master/main branch)
