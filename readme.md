@@ -3,7 +3,7 @@ To add ssh authentication
 1. ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 2. Press enter to continue or add phrases
 3. ssh-add ~/.ssh/id_rsa
-4. git config --global user.email "vinayex2@gmail.com"
+4. git config --global user.email "youremail@server.com"
 5. clip < ~/.ssh/id_rsa.pub
 6. paste the ssh key into github acccount ssh page under settings
 
